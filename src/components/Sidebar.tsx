@@ -11,7 +11,7 @@ interface SidebarProps {
 export default function Sidebar({ activeTab, setActiveTab, isCollapsed, setIsCollapsed }: SidebarProps) {
   const menuItems = [
     { id: "translate", label: "Translate", icon: Languages },
-    { id: "chat", label: "Chat", icon: MessageSquare },
+    //{ id: "chat", label: "Chat", icon: MessageSquare },
     { id: "ocr", label: "OCR", icon: Scan },
     { id: "history", label: "History", icon: Clock },
   ];

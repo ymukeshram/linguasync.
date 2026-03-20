@@ -7,7 +7,7 @@ import { useState, useEffect } from "react";
 import Sidebar from "./components/Sidebar";
 import TranslationCard from "./components/TranslationCard";
 import HistorySidebar from "./components/HistorySidebar";
-import ChatInterface from "./components/ChatInterface";
+// import ChatInterface from "./components/ChatInterface";
 import OCRTranslator from "./components/OCRTranslator";
 import { translateText } from "./services/translationService";
 import { TranslationHistoryItem } from "./types";
@@ -131,11 +131,7 @@ export default function App() {
               </div>
             )}
 
-            {activeTab === "chat" && (
-              <div className="flex-1 py-6">
-                <ChatInterface onTranslate={translateText} />
-              </div>
-            )}
+           {/* Chat disabled */}
 
             {activeTab === "ocr" && (
               <div className="flex-1 py-6">
