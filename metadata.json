@@ -1,0 +1,5 @@
+{
+  "name": "LinguaSync",
+  "description": "A real-time multilingual communication platform supporting text, voice, and image translation.",
+  "requestFramePermissions": ["microphone"]
+}
