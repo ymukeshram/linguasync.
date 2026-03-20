@@ -9,7 +9,6 @@ LinguaSync is a modern AI-powered web application that enables users to **transl
 *  **Multi-language Translation**
 *  **Voice Input Support**
 *  **OCR (Image to Text Translation)**
-*  **Real-Time Chat (Socket.io)**
 *  **Translation History**
 *  **Fast AI-powered responses (Gemini API)**
 *  **Modern Dark UI with Glassmorphism**
@@ -65,4 +64,3 @@ LinguaSync/
 
 # CREATED BY MUKESH RAM YENDURI
 
-   `npm run dev`
