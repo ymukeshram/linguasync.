@@ -1,4 +1,4 @@
-# LinguaSync – AI-Powered Translation Platform
+# LinguaSync – AI-Powered Translation Platform.
 
 LinguaSync is a modern AI-powered web application that enables users to **translate text, voice, and images across multiple languages** in real-time. It also includes a **chat system** and **OCR capabilities** to break language barriers seamlessly.
 
