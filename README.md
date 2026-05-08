@@ -4,7 +4,7 @@ LinguaSync is a modern AI-powered web application that enables users to **transl
 
 ---
 
-##  Features
+##  Features.
 
 *  **Multi-language Translation**
 *  **Voice Input Support**
